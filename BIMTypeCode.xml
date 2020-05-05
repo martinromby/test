@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<System xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<System> xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Source>-</Source>
 	<Edition>1.X.X</Edition>
 	<EditionDate>2019-MM-DD</EditionDate>
