@@ -6080,7 +6080,6 @@
                 <IFC2X3_EntityType>IfcDamperType</IFC2X3_EntityType>
                 <IFC2X3_EnumerationType>SMOKEDAMPER</IFC2X3_EnumerationType>
 				<IFC2X3_Properties>Pset_DamperTypeSmokeDamper</IFC2X3_Properties>
-            </RelatedObjects>
 			<RelatedClassifications>
 				<CCSClassification>[L]FMB</CCSClassification>
 			</RelatedClassifications>
